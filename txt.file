@@ -1,0 +1,5 @@
+oFile is a datatype ofstream
+cout is datatype ofstream
+ofstream is a subtype of ofstream
+    we cant pass an ostream variable into an ofstream parameter
+    
